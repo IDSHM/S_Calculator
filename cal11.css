@@ -33,6 +33,11 @@ background: linear-gradient(322deg, rgba(255,255,255,1) 0%, rgba(195,175,184,1) 
   border-top-left-radius: 14px;
   border-top-right-radius: 14px;
 }
+
+.noout:focus {
+  outline: none;
+}
+
 .buttons {
   padding: 20px 20px 0 20px;
 }
